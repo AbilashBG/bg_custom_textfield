@@ -1,3 +1,3 @@
-library bg_custom_textfield;
+library;
 
 export 'src/bg_custom_textfield.dart';

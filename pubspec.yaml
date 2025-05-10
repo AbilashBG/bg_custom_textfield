@@ -1,6 +1,6 @@
 name: bg_custom_textfield
 description: "This package allows you to customize your text field."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/AbilashBG/bg_custom_textfield.git
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-bg_custom_textfield: ^0.0.2
+bg_custom_textfield: ^0.0.3
 
 dev_dependencies:
   flutter_test:
